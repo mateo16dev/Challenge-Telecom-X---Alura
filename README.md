@@ -73,4 +73,4 @@ Proyecto desarrollado como parte del desafío Alura Telecom X — Especializaci�
 ## Instrucciones para ejecutar el notebook
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/mateo16dev/Challenge-Alura-Store.git
+   git clone https://github.com/mateo16dev/Challenge-Telecom-X---Alura.git
